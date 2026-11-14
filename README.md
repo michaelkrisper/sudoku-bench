@@ -4,8 +4,8 @@ Six sudoku algorithms in seven languages, from CPython to hand-written x86-64
 assembly, measured against one I/O contract and checked against reference
 solutions before any number is published.
 
-[![ci](https://github.com/michaelkrisper/sudoku/actions/workflows/ci.yml/badge.svg)](https://github.com/michaelkrisper/sudoku/actions/workflows/ci.yml)
-[![version](https://img.shields.io/github/v/tag/michaelkrisper/sudoku?sort=semver&label=version)](https://github.com/michaelkrisper/sudoku/releases)
+[![ci](https://github.com/michaelkrisper/sudoku-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/michaelkrisper/sudoku-bench/actions/workflows/ci.yml)
+[![version](https://img.shields.io/github/v/tag/michaelkrisper/sudoku-bench?sort=semver&label=version)](https://github.com/michaelkrisper/sudoku-bench/releases)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![python: 3.12+](https://img.shields.io/badge/python-3.12%2B-blue.svg)](requirements-dev.txt)
 [![rust: edition 2024](https://img.shields.io/badge/rust-edition%202024-orange.svg)](impl/rust/Cargo.toml)

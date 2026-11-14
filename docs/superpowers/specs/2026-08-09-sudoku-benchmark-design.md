@@ -1,7 +1,7 @@
 # Sudoku Solver Benchmark — Design
 
 Date: 2026-08-09
-Repo: michaelkrisper/sudoku
+Repo: michaelkrisper/sudoku-bench
 
 ## Goal
 
